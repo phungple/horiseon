@@ -23,4 +23,5 @@ For this week's Challenge, your task is to refactor an existing webpage to make 
 
 <img width="1506" alt="Screen Shot 2022-02-17 at 9 58 25 AM" src="https://user-images.githubusercontent.com/97318701/154524359-2a201710-d6ca-483c-b630-2abd25006b96.png">
 
-Link to website: http://127.0.0.1:5500/index.html
+https://phungple.github.io/horiseon/
+
